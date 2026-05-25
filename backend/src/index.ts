@@ -1,3 +1,5 @@
+// server entery point by shifa fatima
+
 import express from "express";
 import mongoose from "mongoose";
 import cors from "cors";
