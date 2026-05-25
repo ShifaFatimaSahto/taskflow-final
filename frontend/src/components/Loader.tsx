@@ -1,4 +1,4 @@
-import React from "react";
+//loader component by Shifa
 
 const Loader = () => {
   return (
