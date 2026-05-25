@@ -1,3 +1,5 @@
+// TaskCount component by Shifa fatima
+
 type Props = {
   count: number;
 };
